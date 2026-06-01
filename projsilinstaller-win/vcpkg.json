@@ -1,0 +1,15 @@
+{
+  "name": "projsilinstaller",
+  "version": "1.0.0",
+  "dependencies": [
+    "zlib",
+    "curl",
+    "openssl",
+    {
+      "name": "7zip",
+      "platform": "windows"
+    }
+  ],
+  "overrides": [],
+  "build-options": []
+}
